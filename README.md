@@ -49,7 +49,7 @@ This repository contains the code implementation for the paper **"Gas-Informed M
 
 ### 1. Data Preparation (MATLAB)
 
-1. Run `A00_CellRetention.mlx` to visualize the actual capacity degradation curves for each cell
+1. Run `A00_CellRetention.mlx` to visualize the actual capacity degradation curve for each cell
 2. Run `A01_DatasetOrganization.mlx` to organize the capacity and processed gas data into `BatteryDataset.mat`
 3. Use supporting MATLAB scripts (`Normalization.m`, `OutliersRemoval.m`, etc.) for data preprocessing
 
