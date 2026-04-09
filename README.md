@@ -9,7 +9,7 @@ This repository contains the code implementation for the paper **"Gas-Informed M
 - **Stage Classification**: A label-free PCA-Kmeans approach to distinguish between linear and accelerated nonlinear degradation stages
 - **Capacity Forecasting**: A single-shot forecaster that fuses short capacity/SOH history with OEMS-measured cycle data
 - **Early Detection**: Identifies nonlinear transition 32.0 ± 17.2 cycles before the Bacon-Watts knee (18.0 ± 8.1% of lifetime)
-- **Improved Accuracy**: Achieves 1.6–2.4% RMSE at 100-cycle horizons and reduces long-horizon drift compared to capacity-only baselines
+- **Improved Accuracy**: Achieves 1.7–2.9% RMSE at 100-cycle horizons and reduces long-horizon drift compared to capacity-only baselines
 
 ## Project Structure
 
