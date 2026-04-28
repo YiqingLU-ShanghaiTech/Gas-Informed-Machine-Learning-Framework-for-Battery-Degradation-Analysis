@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the code implementation for the paper **"Gas-Informed Machine Learning Framework for Stage Classification and Early Forecasting of Battery Degradation"** submitted to ACS Applied Materials & Interfaces. The project leverages operando gas evolution data measured by online electrochemical mass spectrometry (OEMS) to enable earlier degradation-stage identification and long-horizon capacity forecasting for batteries.
+This repository contains the code implementation for the paper [**"Gas-Informed Machine Learning Framework for Stage Classification and Early Forecasting of Battery Degradation"**](https://pubs.acs.org/doi/10.1021/acsami.6c02666) submitted to ACS Applied Materials & Interfaces. The project leverages operando gas evolution data measured by online electrochemical mass spectrometry (OEMS) to enable earlier degradation-stage identification and long-horizon capacity forecasting for batteries.
 
 ## Key Features
 
@@ -131,7 +131,7 @@ This repository contains the code implementation for the paper **"Gas-Informed M
 If you use this code in your research, please cite our paper:
 
 ```
-[Paper citation will be added once published]
+Y. Lu, J. Zou, L. Zhang, H. Wang*, and F. Kim*, "Gas-Informed Machine Learning Framework for Stage Classification and Early Forecasting of Battery Degradation," ACS Appl. Mater. Interfaces, April 2026. https://pubs.acs.org/doi/10.1021/acsami.6c02666
 ```
 
 ## Contact
